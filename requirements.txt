@@ -1,4 +1,1 @@
 Flask
-openai
-transformers
-faiss-cpu
